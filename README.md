@@ -34,11 +34,7 @@ print("Square root of the number:",result)
 ```
 
 ## Output:
-```
-10
-Square root of the number: 3.162277660168379
-4
-Square root of the number: 2.0
-```
+![image](https://github.com/gayumee/Square-root-of-a-number/assets/149037327/a80ff30f-4f44-4fc1-9f7b-fc4a00e844a6)
+
 ## Result:
 Thus the program to find the square root for the given number(newton's method) using function is written and verified using python programming.
